@@ -1,0 +1,38 @@
+.btn{
+    text-align: center;
+    margin-top: 2rem;
+    background-color: hsl(195, 68%, 28%);
+    padding: 8px;
+
+}
+.btn:hover{
+    background-color: #1d248f;
+
+}
+.btndiv{
+    text-align: center;
+}
+#seconddiv{
+    text-align: center;
+    margin-top: 12rem;
+    color: white;
+    font-size: xx-large;
+    font: bold;
+
+}
+body{
+    background-color: lightgreen
+}
+
+h1{
+    text-align: center;
+}
+
+
+
+
+
+
+
+
+
