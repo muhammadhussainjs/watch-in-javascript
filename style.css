@@ -1,12 +1,14 @@
 .btn{
     text-align: center;
     margin-top: 2rem;
-    background-color: hsl(195, 68%, 28%);
-    padding: 8px;
+    background-color: hsl(168, 68%, 28%);
+    padding: 8px 16px;
+    border: none;
+    transition: background-color 0.5s;
 
 }
 .btn:hover{
-    background-color: #1d248f;
+    background-color: hsl(168, 71%, 21%);
 
 }
 .btndiv{
@@ -16,23 +18,17 @@
     text-align: center;
     margin-top: 12rem;
     color: white;
-    font-size: xx-large;
+    font-size: 6rem;
+    font-family: Arial, sans-serif;
     font: bold;
+    box-shadow: 0 0 12px rgba(11, 11, 11, 0.2);
 
 }
 body{
-    background-color: lightgreen
+    background-color: rgb(30, 219, 229);
 }
 
 h1{
     text-align: center;
 }
-
-
-
-
-
-
-
-
 
